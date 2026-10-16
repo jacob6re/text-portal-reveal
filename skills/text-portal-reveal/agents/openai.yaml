@@ -1,0 +1,4 @@
+interface:
+  display_name: "text-portal-reveal"
+  short_description: "默认三极泼墨体，黑底文字放大展开为视频，或将视频收拢成文字结尾"
+  default_prompt: "使用 $text-portal-reveal，把我提供的视频做成黑底文字穿越开场，文字是“出发”，随后放大展开到全屏。"
